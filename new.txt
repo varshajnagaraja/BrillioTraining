@@ -1,2 +1,2 @@
 hi1param(1, 2)
-param(1, 2)
+param(2)
